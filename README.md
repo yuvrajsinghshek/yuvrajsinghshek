@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello there! I'm Yuvraj Singh Shekhawat
 
-<!--
-**yuvrajsinghshek/yuvrajsinghshek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 Python Enthusiast  
+Currently learning and exploring the world of Data Science & Analytics!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 📌 Languages: Python, SQL, HTML, CSS, Bootstrap
+- 📊 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- 📈 Tools: Power BI, Tableau
+- 🌐 Web: HTML, CSS, Bootstrap
+
+---
+
+## 📚 Education
+- 🧠 12th (PCM) – 87%
+- 🎓 B.A. Graduate
+- 💻 MCA (Ongoing) – Lovely Professional University (Online)
+
+---
+
+## 👨‍💻 Projects
+1. [NLPCloud Interface](https://github.com/yuvrajsinghshek/NLPCloud-Interface) – Used NLP Cloud API to implement 3 types of text analysis.
+2. [Zomato Sales Analysis](https://github.com/yuvrajsinghshek/Zomato-Project) – Sales insights using Python data libraries.
+3. [Hotel Booking Analysis](https://github.com/yuvrajsinghshek/Hotel-Booking-Analysis) – Identified booking cancellation trends and suggestions.
+
+---
+
+## 📈 GitHub Stats
+![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinghshek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinghshek&layout=compact)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvraj-singh-shekhawat-155719316)
+
