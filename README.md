@@ -6,7 +6,7 @@ Currently learning and exploring the world of Data Science & Analytics!
 ---
 
 ## 🔧 Tech Stack
-- 📌 Languages: Python, SQL, HTML, CSS, Bootstrap
+- 📌 Languages: Python, SQL
 - 📊 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - 📈 Tools: Power BI, Tableau
 - 🌐 Web: HTML, CSS, Bootstrap
