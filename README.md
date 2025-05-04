@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Yuvraj Singh Shekhawat
 
-🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 Python Enthusiast  
+🎓 MCA Student | 📊 Aspiring Data Scientist | 💻 Python Enthusiast  
 Currently learning and exploring the world of Data Science & Analytics!
 
 ---
