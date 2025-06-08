@@ -24,6 +24,8 @@ Currently learning and exploring the world of Data Science & Analytics!
 1. [NLPCloud Interface](https://github.com/yuvrajsinghshek/NLPCloud-Interface) – Used NLP Cloud API to implement 3 types of text analysis.
 2. [Zomato Sales Analysis](https://github.com/yuvrajsinghshek/Zomato-Project) – Sales insights using Python data libraries.
 3. [Hotel Booking Analysis](https://github.com/yuvrajsinghshek/Hotel-Booking-Analysis) – Identified booking cancellation trends and suggestions.
+4. [Flights SQL Streamlit App](https://github.com/yuvrajsinghshek/flights_sql_streamlit_app) – An interactive Streamlit app to search and analyze flight data using SQL backend.
+
 
 ---
 
